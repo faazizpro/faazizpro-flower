@@ -235,3 +235,44 @@
     height: 396px;
     flex-shrink: 0;
 }    
+
+        /* Footer */
+.footer{
+    height: 449px;
+    background: #111010;
+}
+
+.footer h2{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 24px ;
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.footer .fp{
+    width: 625px;
+    margin: auto;
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.end{
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
