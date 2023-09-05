@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Hero Section */
+.main{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0px 240px;
+}
+
+.hero{
+    display: flex;
+    gap: 100px;
+}
+
+.column1{
+    margin: 197px 0px 0px 0px;
+}
+
+.column1 h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px; 
+    font-weight: 800;
+    margin-bottom: 32px;
+}
+
+.column1 p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.column1 button{
+    border: 0px;
+    border-radius: 10px;
+    padding: 20px 43px;
+    background-color: #e55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 32px ;
+}
+
+.hero-img{
+    width: 635px;
+    height: 800px;
+    margin: 50px 0px 0px 0px;
+}
+
+
+/* Features Flowers */
