@@ -108,7 +108,7 @@
     height: 370px;
     margin: 117px 47px 118px ;
 }  
-.flower3{
+.flower3{      
     width: 464px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
@@ -118,4 +118,29 @@
     width: 314px;
     height: 471px;
     margin: 67px 75px;
+}
+
+.support{
+    width: 1440px;
+    height: 320px;
+    margin: auto;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-bottom: 128px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.support div{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-direction: column;
+}
+
+.support div img{
+    width: 88px;
+    height: 88px;
 }
