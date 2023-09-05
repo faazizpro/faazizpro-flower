@@ -77,3 +77,45 @@
     line-height: 30px;
     margin-bottom: 50px;
 }
+
+/* Flowers */
+.flowers-card{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 200px;
+}
+.flower1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+  
+}
+.flower1 img{
+    width: 310px;
+    height: 428px;
+    margin: 110px 78px 67px 76px ;
+}
+.flower2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);;  
+}
+.flower2 img{
+    width: 370px;
+    height: 370px;
+    margin: 117px 47px 118px ;
+}  
+.flower3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);  
+}
+.flower3 img{
+    width: 314px;
+    height: 471px;
+    margin: 67px 75px;
+}
