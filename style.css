@@ -78,7 +78,7 @@
     margin-bottom: 50px;
 }
 
-/* Flowers */
+                /* Flowers */
 .flowers-card{
     display: flex;
     justify-content: center;
@@ -144,3 +144,56 @@
     width: 88px;
     height: 88px;
 }
+
+            /* Deals Section */
+
+.deals{
+    /* width: 1922px; */
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    gap: 215px;
+}
+
+.deal1{
+    margin: 230px 0px 162px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.deal2{
+    margin: 100px 0px;
+}
+.deals div h2{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.deals div p{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+.deals div button{
+    padding: 20px 43px;
+    border-radius: 8px;
+    border: none;
+    background: #E55473;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+}
+
