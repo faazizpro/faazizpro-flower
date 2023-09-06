@@ -234,7 +234,81 @@
     width: 342px;
     height: 396px;
     flex-shrink: 0;
-}    
+}   
+
+
+/* Email */
+.email{
+    width: 1440px;
+    margin: auto;
+    height: 449px;
+    border-radius: 8px;
+    background: url(./Images/Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    flex-shrink: 0;
+    margin-bottom: 128px;
+}
+
+.email div h2{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    padding-top: 122px;
+    margin-bottom: 16px;
+}
+
+.email div p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.form{
+    margin-top: 48px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.mail{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    padding-left: 20px;
+    border: none;
+    background: #FFF;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.submit{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    border: none;
+    background: #E55473;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
 
         /* Footer */
 .footer{
